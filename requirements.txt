@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+opencv-python
+face_recognition
+scikit-learn
+seaborn
