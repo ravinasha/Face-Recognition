@@ -10,8 +10,3 @@ Features
 - Real-Time Face Recognition : Uses a live webcam feed to detect and recognize faces.
 - Performance Metrics : Calculates precision, recall, F1-score, and accuracy for the model.
 
-Installation
- Clone the repository :
-   bash
-   git clone https://github.com/yourusername/face-recognition-project.git
-   cd face-recognition-project
